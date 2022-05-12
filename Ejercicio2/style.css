@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+body {
+    background-color: aquamarine;
+    font-family: 'EB Garamond', serif;
+
+}
+
+header{
+    width:70% ;
+    height: 100vh;
+    background-image: url('./Imagenes/imagen5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 80px;
+} 
